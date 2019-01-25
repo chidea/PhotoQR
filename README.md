@@ -2,7 +2,8 @@
 High resolution photo as a background of a QR code
 
 ### Demo
-[Image](images/IMG_20190125_221718.jpg)
+![DemoImage](images/qr.png)
+![DemoImage](images/IMG_20190125_221718.jpg)
 
 ### Prerequisites
 - Pillow
